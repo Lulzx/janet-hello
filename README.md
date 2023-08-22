@@ -16,6 +16,9 @@ Install Janet from source, download the most recent release from https://github.
 
 Build with `jpm build`, the binary will be in the `build` folder.
 
+<img width="793" alt="image" src="https://github.com/Lulzx/janet-hello/assets/22330483/b0ecfcc6-3a5c-4be6-893a-6859f5a08f2d">
+
+
 ## See also
 
 * Janet for Mortals - https://janet.guide/
